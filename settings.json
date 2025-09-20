@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 2,
+    "editor.tokenColorCustomizations": {
+        "comments": "#66ff00" 
+    },
+    "explorer.compactFolders": false,
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.fontSize": 12
+}
